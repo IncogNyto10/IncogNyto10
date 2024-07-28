@@ -4,7 +4,7 @@
 ![Profile Image](https://github.com/IncogNyto10/IncogNyto10/blob/main/Portada.jpg)
 
 ## Skills
- <img alt="Night Coding" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVxa2I1bHQ0OXZsMHUwaXpnc3V0bzdxdmVjMXJhc3VobGU1MHk0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" align="right" width="280" />
+ <img alt="Night Coding" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVxa2I1bHQ0OXZsMHUwaXpnc3V0bzdxdmVjMXJhc3VobGU1MHk0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" align="right" width="240" />
 
 - 💻 **Languages**: Python, JavaScript, HTML, CSS
 - 🌐 **Frameworks**: React, Django, NodeJS
