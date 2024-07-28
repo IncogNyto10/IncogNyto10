@@ -13,7 +13,7 @@
 
 ## Contact
 - 📧 **Email**: victoralzate61@gmail.com
-- 💼 **LinkedIn**: [Victor Manuel Alzate](https://www.linkedin.com/in/victor-manuel-alzate-morales-185719187/)
+- 💼 **LinkedIn**: [Victor Manuel Alzate](https://www.linkedin.com/in/victoralzate/)
 - 📷 **Instagram**: [@lord_incognyto](https://www.instagram.com/lord_incognyto/)
 
 ## Tags
